@@ -1,6 +1,6 @@
 class StaticController < ApplicationController
 
     def helloworld
-        render "helloworld"
+        render "static/helloworld"
     end
 end
